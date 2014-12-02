@@ -1,0 +1,4 @@
+[B]*** 0.0.2 ***[/B]
+- Fix in addon.xml, wrong dependencies list.
+[B]*** 0.0.1 ***[/B]
+- Initial release
